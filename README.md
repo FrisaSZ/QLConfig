@@ -1,2 +1,2 @@
 # QLConfig
-quake live config files
+FrisaSZ's Quakelive config files
